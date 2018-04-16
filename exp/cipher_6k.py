@@ -1,3 +1,5 @@
+# or use from string import maketrans
+
 class Cipher(object):
     def __init__(self, map1, map2):
         self.map1 = map1
